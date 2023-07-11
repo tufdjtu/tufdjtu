@@ -3,9 +3,6 @@
 
 - 📜 I’m studying Computing engineering
 - 🌱 I’m currently learning HTML ,CSS and JS
-- 😃 Only good vibes
-- ✌️  Work Hard
-- 🐨 Dangers of Climate Changes
   
   <div>
   <a href="https://github.com/tufdjtu">
